@@ -1,0 +1,8 @@
+{
+  "name": "renovate-repro-rc-tooltip",
+  "version": "1.0.0",
+  "private": true,
+  "dependencies": {
+    "rc-tooltip": "6.4.0"
+  }
+}
